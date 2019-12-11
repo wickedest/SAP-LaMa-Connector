@@ -69,7 +69,7 @@ Tested with SAP Landscape Management 3.0
 
 ## Changelog
 - 1.0.0 - 11.12.2019
-  - Initial version supporting XML to JSON
+  - Initial version 
   
 ## Limitations/Caveats
 - Nothing known
