@@ -3,7 +3,12 @@
 Use this connector to communicate with the [SAP Landscape Management](https://www.sap.com/products/landscape-management.html) and make it part of your API-Management platform.  
 
 ## Installation
-To install it into you API-Builder project, just copy the Swagger-Definition + Icon from this GitHub-Repository into the `swagger` Directory of your API-Builder project as described in the API-Builder documentation. https://docs.axway.com/bundle/API_Builder_4x_allOS_en/page/swagger_flow-node.html  
+To install it into you API-Builder project execute: 
+```npm
+npm install @axway-api-builder-ext/SAP-LaMa-Connector
+```
+This connector is using the Swagger-Flow now:  
+https://docs.axway.com/bundle/API_Builder_4x_allOS_en/page/swagger_flow-node.html  
 
 
 ## Configuration
