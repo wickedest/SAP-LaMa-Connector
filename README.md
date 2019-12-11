@@ -9,7 +9,7 @@ npm install @axway-api-builder-ext/SAP-LaMa-Connector
 ```
 To install a specific version please use: 
 ```npm
-npm install @axway-api-builder-ext/api-builder-plugin-fn-xml-node@1.0.0
+npm install @axway-api-builder-ext/SAP-LaMa-Connector@1.0.0
 ```
   
 This connector is using the Swagger-Flow now:  
