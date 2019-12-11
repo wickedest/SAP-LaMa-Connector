@@ -4,20 +4,20 @@
   "description": "Use this connector to integrate with SAP Landscape Management",
   "main": "index.js",
   "scripts": {
-    "postinstall" : "node scripts/postinstall.js",
-    "uninstall" : "node scripts/uninstall.js"
+    "postinstall": "node scripts/postinstall.js",
+    "uninstall": "node scripts/uninstall.js"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/Axway-API-Builder-Ext/SAP-LaMa-Connector.git"
   },
   "keywords": [
-		"amplify",
-		"api-builder",
-		"flow",
-		"sap",
-		"Landscape Management"
-	],
+    "amplify",
+    "api-builder",
+    "flow",
+    "sap",
+    "Landscape Management"
+  ],
   "author": "Chris Wiechmann <cwiechmann@axway.com> (http://www.axway.com)",
   "license": "Apache-2.0",
   "bugs": {
@@ -25,12 +25,12 @@
   },
   "homepage": "https://github.com/Axway-API-Builder-Ext/SAP-LaMa-Connector#readme",
   "files": [
-		"swagger",
+    "swagger",
     "scripts",
-		"README.md",
+    "README.md",
     "LICENSE"
-	],
+  ],
   "dependencies": {
-		"shelljs": "^0.8.3"
-	}
+    "shelljs": "^0.8.3"
+  }
 }
